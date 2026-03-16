@@ -1,7 +1,5 @@
 # lamport-clock-py
 
-Zero-dependency Python CLI.
+Lamport logical clock and vector clock
 
-```bash
-python3 lamport_clock.py
-```
+Zero-dependency Python. Stdlib only.
